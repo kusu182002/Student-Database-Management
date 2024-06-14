@@ -24,4 +24,4 @@ A Student Database Management System (SDMS) is designed to efficiently handle an
     Still we can add the information that we need to manage.
    
 # CONCLUSION:
-   The Restaurant Reservation Database provides a comprehensive solution for managing students records by providing different analysis such as students attendance, grade percent, enrollment details, count of students with specific details etc. It serves as a crucial tool for maintaining student records, improving institutional efficiency, and fostering academic success.
+   The Student Database provides a comprehensive solution for managing students records by providing different analysis such as students attendance, grade percent, enrollment details, count of students with specific details etc. It serves as a crucial tool for maintaining student records, improving institutional efficiency, and fostering academic success.
